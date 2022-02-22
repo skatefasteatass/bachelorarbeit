@@ -1,60 +1,42 @@
 <template>
-  <v-app>
-    <v-app-bar
-      app
-      color="primary"
-      dark
+<v-app align-content-center>
+  <v-container class="grey lighten-5">
+    <v-row
+      v-for="j in justify"
+      :key="j"
+      :justify="j"
     >
-      <div class="d-flex align-center">
-        <v-img
-          alt="Vuetify Logo"
-          class="shrink mr-2"
-          contain
-          src="https://cdn.vuetifyjs.com/images/logos/vuetify-logo-dark.png"
-          transition="scale-transition"
-          width="40"
-        />
-
-        <v-img
-          alt="Vuetify Name"
-          class="shrink mt-1 hidden-sm-and-down"
-          contain
-          min-width="100"
-          src="https://cdn.vuetifyjs.com/images/logos/vuetify-name-dark.png"
-          width="100"
-        />
-      </div>
-
-      <v-spacer></v-spacer>
-
-      <v-btn
-        href="https://github.com/vuetifyjs/vuetify/releases/latest"
-        target="_blank"
-        text
+      <v-col
+        v-for="k in 2"
+        :key="k"
+        md="4"
       >
-        <span class="mr-2">Latest Release</span>
-        <v-icon>mdi-open-in-new</v-icon>
-      </v-btn>
-    </v-app-bar>
-
-    <v-main>
-      <HelloWorld/>
-    </v-main>
+        <v-card
+          class="pa-2"
+          outlined
+          tile
+        >
+          One of two columns
+        </v-card>
+      </v-col>
+    </v-row>
+  </v-container>
   </v-app>
 </template>
 
 <script>
-import HelloWorld from './components/HelloWorld';
 
 export default {
   name: 'App',
 
-  components: {
-    HelloWorld,
-  },
-
-  data: () => ({
-    //
-  }),
+    data: () => ({
+      justify: [
+        'start',
+        'center',
+        'end',
+        'space-around',
+        'space-between',
+      ],
+    }),
 };
 </script>
