@@ -5,111 +5,130 @@
 
         <v-layout row justify-center>
           <v-flex xs2 sm2 md2 lg2 xl2>
-            <v-btn outline block>r1b1</v-btn>
+            <v-btn outline color="blue" style="width:100px; height:100px">
+              <span>Knoten 1</span>
+            </v-btn>
           </v-flex>
 
           <v-flex xs2 sm2 md2 lg2 xl2>
-            <v-btn outline block>r1b2</v-btn>
+
           </v-flex>
 
           <v-flex xs2 sm2 md2 lg2 xl2>
-            <v-btn outline block>r1b3</v-btn>
+
           </v-flex>
 
           <v-flex xs2 sm2 md2 lg2 xl2>
-            <v-btn outlined block>r1b4</v-btn>
+
           </v-flex>
 
           <v-flex xs2 sm2 md2 lg2 xl2>
-            <v-btn outline block>r1b5</v-btn>
+            <v-btn outline color="yellow" style="width:100px; height:100px" xs2 sm2 md2 lg2 xl2>
+              <span>Knoten 2</span>
+            </v-btn>
           </v-flex>
         </v-layout>
     
         <v-layout row justify-center>
           <v-flex xs2 sm2 md2 lg2 xl2>
-            <v-btn outline block>r2b1</v-btn>
+
           </v-flex>
 
           <v-flex xs2 sm2 md2 lg2 xl2>
-            <v-btn outline block>r2b2</v-btn>
+            <v-btn outline color="light-grey" style="width:100px; height:100px">
+              <span>Arrow</span>
+            </v-btn>
           </v-flex>
 
           <v-flex xs2 sm2 md2 lg2 xl2>
-            <v-btn outline block>r2b3</v-btn>
+
           </v-flex>
 
           <v-flex xs2 sm2 md2 lg2 xl2>
-            <v-btn outline block>r2b4</v-btn>
+            <v-btn outline color="light-grey" style="width:100px; height:100px">
+              <span>Arrow</span>
+            </v-btn>
           </v-flex>
 
           <v-flex xs2>
-            <v-btn outline block>r2b5</v-btn>
+
           </v-flex>
         </v-layout>
 
         <v-layout row justify-center>
           <v-flex xs2>
-            <v-btn outline block>r3b1</v-btn>
+
           </v-flex>
 
           <v-flex xs2>
-            <v-btn outline block>r3b2</v-btn>
+
           </v-flex>
 
           <v-flex xs2>
-            <v-btn outline block>r3b3</v-btn>
+            <v-btn outline color="grey" style="width:100px; height:100px">
+              <span>Knoten 3</span>
+            </v-btn>
           </v-flex>
 
           <v-flex xs2>
-            <v-btn outline block>r3b4</v-btn>
+
           </v-flex>
 
           <v-flex xs2>
-            <v-btn outline block>r3b5</v-btn>
-          </v-flex>
-        </v-layout>
 
-        <v-layout row justify-center>
-          <v-flex xs2>
-            <v-btn outline block>r4b1</v-btn>
-          </v-flex>
-
-          <v-flex xs2>
-            <v-btn outline block>r4b2</v-btn>
-          </v-flex>
-
-          <v-flex xs2>
-            <v-btn outline block>r4b3</v-btn>
-          </v-flex>
-
-          <v-flex xs2>
-            <v-btn outline block>r4b4</v-btn>
-          </v-flex>
-
-          <v-flex xs2>
-            <v-btn outline block>r4b5</v-btn>
           </v-flex>
         </v-layout>
 
         <v-layout row justify-center>
           <v-flex xs2>
-            <v-btn outline block>r5b1</v-btn>
+
           </v-flex>
 
           <v-flex xs2>
-            <v-btn outline block>r5b2</v-btn>
+            <v-btn outline color="light-grey" style="width:100px; height:100px">
+              <span>Arrow</span>
+            </v-btn>
           </v-flex>
 
           <v-flex xs2>
-            <v-btn outline block>r5b3</v-btn>
+
           </v-flex>
 
           <v-flex xs2>
-            <v-btn outline block>r5b4</v-btn>
+            <v-btn outline color="light-grey" style="width:100px; height:100px">
+              <span>Arrow</span>
+            </v-btn>
           </v-flex>
 
           <v-flex xs2>
-            <v-btn outline block>r5b5</v-btn>
+
+          </v-flex>
+        </v-layout>
+
+        <v-layout row justify-center>
+
+          <v-flex xs2 align-right>
+            <v-btn outline color="green" style="width:100px; height:100px">
+              <span>Knoten 4</span>
+            </v-btn>
+          </v-flex>
+
+          <v-flex xs2>
+
+          </v-flex>
+
+          <v-flex xs2>
+
+          </v-flex>
+
+          <v-flex xs2>
+            
+          </v-flex>
+
+          <v-flex xs2 justify-left>
+            <v-btn outline color="red" style="width:100px; height:100px">
+              <span>Knoten 5</span>
+            </v-btn>
           </v-flex>
         </v-layout>
 
