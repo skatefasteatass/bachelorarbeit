@@ -3,8 +3,9 @@
     <div>
       <v-container>
 
+    <!-- Row 1 -->
         <v-layout row justify-center>
-          <v-flex xs2 sm2 md2 lg2 xl2>
+          <v-flex xs2 sm2 md2 lg2 xl2 align-self-center>
             <v-btn outline color="blue" style="width:100px; height:100px">
               <span>Knoten 1</span>
             </v-btn>
@@ -28,7 +29,8 @@
             </v-btn>
           </v-flex>
         </v-layout>
-    
+
+    <!-- Row 2 -->
         <v-layout row justify-center>
           <v-flex xs2 sm2 md2 lg2 xl2>
 
@@ -55,6 +57,7 @@
           </v-flex>
         </v-layout>
 
+    <!-- Row 3 -->
         <v-layout row justify-center>
           <v-flex xs2>
 
@@ -79,6 +82,7 @@
           </v-flex>
         </v-layout>
 
+    <!-- Row 4 -->
         <v-layout row justify-center>
           <v-flex xs2>
 
@@ -105,6 +109,7 @@
           </v-flex>
         </v-layout>
 
+    <!-- Row 5 -->
         <v-layout row justify-center>
 
           <v-flex xs2 align-right>
