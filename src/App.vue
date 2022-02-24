@@ -37,9 +37,7 @@
           </v-flex>
 
           <v-flex xs2 sm2 md2 lg2 xl2>
-            <v-btn outline color="light-grey" style="width:100px; height:100px">
-              <span>Arrow</span>
-            </v-btn>
+Arrow
           </v-flex>
 
           <v-flex xs2 sm2 md2 lg2 xl2>
