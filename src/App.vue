@@ -6,9 +6,7 @@
     <!-- Row 1 -->
         <v-layout row justify-center>
           <v-flex xs2 sm2 md2 lg2 xl2>
-            <v-btn outline color="blue" style="width:100px; height:100px">
-              <span>Knoten 1</span>
-            </v-btn>
+            <v-sheet color="blue" style="width:100px; height:100px">   </v-sheet>
           </v-flex>
 
           <v-flex xs2 sm2 md2 lg2 xl2>
@@ -37,7 +35,13 @@
           </v-flex>
 
           <v-flex xs2 sm2 md2 lg2 xl2>
-Arrow
+            <v-img
+            src="./assets/oben_links.svg"
+            alt="arrow upper left side"
+            max-height="100px"
+            max-width="100px"
+            >
+            </v-img>
           </v-flex>
 
           <v-flex xs2 sm2 md2 lg2 xl2>
@@ -45,9 +49,13 @@ Arrow
           </v-flex>
 
           <v-flex xs2 sm2 md2 lg2 xl2>
-            <v-btn outline color="light-grey" style="width:100px; height:100px">
-              <span>Arrow</span>
-            </v-btn>
+            <v-img
+            src="./assets/oben_rechts.svg"
+            alt="arrow upper right side"
+            max-height="100px"
+            max-width="100px"
+            >
+            </v-img>
           </v-flex>
 
           <v-flex xs2 sm2 md2 lg2 xl2>
@@ -87,9 +95,13 @@ Arrow
           </v-flex>
 
           <v-flex xs2 sm2 md2 lg2 xl2>
-            <v-btn outline color="light-grey" style="width:100px; height:100px">
-              <span>Arrow</span>
-            </v-btn>
+            <v-img
+            src="./assets/unten_links.svg"
+            alt="arrow lower left side"
+            max-height="100px"
+            max-width="100px"
+            >
+            </v-img>
           </v-flex>
 
           <v-flex xs2 sm2 md2 lg2 xl2>
@@ -97,9 +109,13 @@ Arrow
           </v-flex>
 
           <v-flex xs2 sm2 md2 lg2 xl2>
-            <v-btn outline color="light-grey" style="width:100px; height:100px">
-              <span>Arrow</span>
-            </v-btn>
+            <v-img
+            src="./assets/unten_rechts.svg"
+            alt="arrow lower right side"
+            max-height="100px"
+            max-width="100px"
+            >
+            </v-img>
           </v-flex>
 
           <v-flex xs2 sm2 md2 lg2 xl2>
