@@ -1,13 +1,23 @@
 <template>
   <v-app>
     <Header />
-    <div>
+    <div style="">
+
+      <!-- Row 1 -->
       <v-container>
 
     <!-- Row 1 -->
         <v-layout row justify-center>
           <v-flex xs2 sm2 md2 lg2 xl2>
-            <v-sheet color="blue" style="width:125px; height:125px">   </v-sheet>
+            <v-img
+            src="./assets/square.svg"
+            alt="test"
+            max-height="180px"
+            max-width="180px"
+            min-height="48px"
+            min-width="48px"
+            >
+            </v-img>
           </v-flex>
 
           <v-flex xs2 sm2 md2 lg2 xl2>
@@ -23,9 +33,15 @@
           </v-flex>
 
           <v-flex xs2 sm2 md2 lg2 xl2>
-            <v-btn outline color="yellow" style="width:125px; height:125px" xs2 sm2 md2 lg2 xl2>
-              <span>Knoten 2</span>
-            </v-btn>
+            <v-img
+            src="./assets/square.svg"
+            alt="test"
+            max-height="180px"
+            max-width="180px"
+            min-height="48px"
+            min-width="48px"            
+            >
+            </v-img>
           </v-flex>
         </v-layout>
 
@@ -39,8 +55,10 @@
             <v-img
             src="./assets/oben_links.svg"
             alt="arrow upper left side"
-            max-height="125px"
-            max-width="125px"
+            max-height="180px"
+            max-width="180px"
+            min-height="48px"
+            min-width="48px"
             >
             </v-img>
           </v-flex>
@@ -53,8 +71,10 @@
             <v-img
             src="./assets/oben_rechts.svg"
             alt="arrow upper right side"
-            max-height="125px"
-            max-width="125px"
+            max-height="180px"
+            max-width="180px"
+            min-height="48px"
+            min-width="48px"            
             >
             </v-img>
           </v-flex>
@@ -75,9 +95,15 @@
           </v-flex>
 
           <v-flex xs2 sm2 md2 lg2 xl2>
-            <v-btn outline color="grey" style="width:125px; height:125px">
-              <span>Knoten 3</span>
-            </v-btn>
+            <v-img
+            src="./assets/square.svg"
+            alt="test"
+            max-height="180px"
+            max-width="180px"
+            min-height="48px"
+            min-width="48px"            
+            >
+            </v-img>
           </v-flex>
 
           <v-flex xs2 sm2 md2 lg2 xl2>
@@ -99,8 +125,10 @@
             <v-img
             src="./assets/unten_links.svg"
             alt="arrow lower left side"
-            max-height="125px"
-            max-width="125px"
+            max-height="180px"
+            max-width="180px"
+            min-height="48px"
+            min-width="48px"
             >
             </v-img>
           </v-flex>
@@ -113,8 +141,10 @@
             <v-img
             src="./assets/unten_rechts.svg"
             alt="arrow lower right side"
-            max-height="125px"
-            max-width="125px"
+            max-height="180px"
+            max-width="180px"
+            min-height="48px"
+            min-width="48px"
             >
             </v-img>
           </v-flex>
@@ -128,9 +158,15 @@
         <v-layout row justify-center>
 
           <v-flex xs2>
-            <v-btn outline color="green" style="width:125px; height:125px">
-              <span>Knoten 4</span>
-            </v-btn>
+            <v-img
+            src="./assets/square.svg"
+            alt="test"
+            max-height="180px"
+            max-width="180px"
+            min-height="48px"
+            min-width="48px"            
+            >
+            </v-img>
           </v-flex>
 
           <v-flex xs2 sm2 md2 lg2 xl2>
@@ -146,9 +182,15 @@
           </v-flex>
 
           <v-flex xs2 sm2 md2 lg2 xl2 >
-            <v-btn outline color="red" style="width:125px; height:125px;">
-              <span>Knoten 5</span>
-            </v-btn>
+            <v-img
+            src="./assets/square.svg"
+            alt="test"
+            max-height="180px"
+            max-width="180px"
+            min-height="48px"
+            min-width="48px"            
+            >
+            </v-img>
           </v-flex>
         </v-layout>
 
