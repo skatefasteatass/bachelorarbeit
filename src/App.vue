@@ -10,7 +10,7 @@
         <v-layout row justify-center>
           <v-flex xs2 sm2 md2 lg2 xl2>
             <v-img
-            src="./assets/square.svg"
+            src="./assets/Node_Behoerden.svg"
             alt="test"
             max-height="180px"
             max-width="180px"
@@ -34,7 +34,7 @@
 
           <v-flex xs2 sm2 md2 lg2 xl2>
             <v-img
-            src="./assets/square.svg"
+            src="./assets/Node_GEZ.svg"
             alt="test"
             max-height="180px"
             max-width="180px"
@@ -96,7 +96,7 @@
 
           <v-flex xs2 sm2 md2 lg2 xl2>
             <v-img
-            src="./assets/square.svg"
+            src="./assets/Node_Mreg.svg"
             alt="test"
             max-height="180px"
             max-width="180px"
@@ -159,7 +159,7 @@
 
           <v-flex xs2>
             <v-img
-            src="./assets/square.svg"
+            src="./assets/Node_MStelle.svg"
             alt="test"
             max-height="180px"
             max-width="180px"
@@ -183,7 +183,7 @@
 
           <v-flex xs2 sm2 md2 lg2 xl2 >
             <v-img
-            src="./assets/square.svg"
+            src="./assets/Node_Dritte.svg"
             alt="test"
             max-height="180px"
             max-width="180px"
