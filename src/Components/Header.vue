@@ -1,21 +1,21 @@
 <template>
-    <header>
-        <h1>Datenflüsse beim Umzug</h1>
-    </header>
+  <header>
+    <h1>Datenflüsse beim Umzug</h1>
+  </header>
 </template>
 
 <script>
 export default {
-    name: 'Header',
-}
+  name: "Header",
+};
 </script>
 
 <style scoped>
 header {
-    display:flex;
-    margin-bottom:15px;
-    display:flex;
-    justify-content: center;
-    background-color: whitesmoke;
+  display: flex;
+  margin-bottom: 15px;
+  display: flex;
+  justify-content: center;
+  background-color: whitesmoke;
 }
 </style>
