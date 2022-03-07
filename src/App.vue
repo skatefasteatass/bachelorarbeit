@@ -7,7 +7,7 @@
       <Row>
         <Placeholder>
           <Dialog title="some title" text="some text">
-            <Knoten :src="require('@/assets/Node_Behoerden.svg')" alt="test" />
+            <Knoten :src="require('@/assets/Node_Behoerden.svg')" alt="behoerden" />
           </Dialog>
         </Placeholder>
         <Placeholder />
@@ -15,7 +15,7 @@
         <Placeholder />
         <Placeholder>
           <Dialog title="some title" text="some text">
-            <Knoten :src="require('@/assets/Node_GEZ.svg')" alt="test" />
+            <Knoten :src="require('@/assets/Node_GEZ.svg')" alt="gez" />
           </Dialog>
         </Placeholder>
       </Row>
@@ -23,11 +23,11 @@
       <Row>
         <Placeholder />
         <Placeholder>
-          <Knoten :src="require('@/assets/oben_links.svg')" alt="test" />
+          <Knoten :src="require('@/assets/oben_links.svg')" alt="arrow oben links" />
         </Placeholder>
         <Placeholder />
         <Placeholder>
-          <Knoten :src="require('@/assets/oben_rechts.svg')" alt="test" />
+          <Knoten :src="require('@/assets/oben_rechts.svg')" alt="arrow oben rechts" />
         </Placeholder>
         <Placeholder />
       </Row>
@@ -37,7 +37,7 @@
         <Placeholder />
         <Placeholder>
           <Dialog title="some title" text="some text">
-            <Knoten :src="require('@/assets/Node_Mreg.svg')" alt="test" />
+            <Knoten :src="require('@/assets/Node_Mreg.svg')" alt="mreg" />
           </Dialog>
         </Placeholder>
         <Placeholder />
@@ -47,11 +47,11 @@
       <Row>
         <Placeholder />
         <Placeholder>
-          <Knoten :src="require('@/assets/unten_links.svg')" alt="test" />
+          <Knoten :src="require('@/assets/unten_links.svg')" alt="arrow unten links" />
         </Placeholder>
         <Placeholder />
         <Placeholder>
-          <Knoten :src="require('@/assets/unten_rechts.svg')" alt="test" />
+          <Knoten :src="require('@/assets/unten_rechts.svg')" alt="arrow unten rechts" />
         </Placeholder>
         <Placeholder />
       </Row>
@@ -59,15 +59,19 @@
       <Row>
         <Placeholder>
           <Dialog title="some title" text="some text">
-            <Knoten :src="require('@/assets/Node_MStelle.svg')" alt="test" />
+            <Knoten :src="require('@/assets/Node_MStelle.svg')" alt="mstelle" />
           </Dialog>
         </Placeholder>
         <Placeholder />
         <Placeholder />
         <Placeholder />
         <Placeholder>
-          <Dialog title="some title" text="some text">
-            <Knoten :src="require('@/assets/Node_Dritte.svg')" alt="test" />
+          <Dialog 
+          title=
+          "Dritte Institutionen" 
+          text=
+          "Dritte Institutionen sind nur indirekt von einer neuen Anmeldung betroffen.">
+            <Knoten :src="require('@/assets/Node_Dritte.svg')" alt="dritte" />
           </Dialog>
         </Placeholder>
       </Row>

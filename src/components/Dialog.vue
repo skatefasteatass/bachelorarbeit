@@ -34,7 +34,7 @@ export default {
     },
     button: {
       type: String,
-      default: "feels good man",
+      default: "FEELS GOOD MAN",
     },
   },
   data() {
