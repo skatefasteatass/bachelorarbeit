@@ -58,9 +58,9 @@
       <!-- Row 5 -->
       <Row>
         <Placeholder>
-          <Dialog title="some title" text="some text">
+          <DialogMStelle>
             <Knoten :src="require('@/assets/Node_MStelle.svg')" alt="mstelle" />
-          </Dialog>
+          </DialogMStelle>
         </Placeholder>
         <Placeholder />
         <Placeholder />
@@ -80,6 +80,7 @@
 </template>
 
 <script>
+import DialogMStelle from "@/components/DialogMStelle.vue"
 import Header from "@/components/Header.vue";
 import Placeholder from "@/components/Placeholder.vue";
 import Knoten from "@/components/Knoten.vue";
@@ -93,15 +94,8 @@ export default {
     Placeholder,
     Knoten,
     Dialog,
+    DialogMStelle,
     Row,
   },
 };
 </script>
-
-<style scoped>
-v-btn {
-  width: 125px;
-  height: 125px;
-}
-</style>
->
