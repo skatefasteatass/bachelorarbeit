@@ -14,7 +14,7 @@ export default {
 header {
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
   display: flex;
-  margin-bottom: 15px;
+  margin-bottom: 25px;
   display: flex;
   justify-content: center;
   background-color: whitesmoke;

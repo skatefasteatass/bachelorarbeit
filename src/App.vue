@@ -6,17 +6,17 @@
       <!-- Row 1 -->
       <Row>
         <Placeholder>
-          <Dialog title="some title" text="some text">
-            <Knoten :src="require('@/assets/Node_Behoerden.svg')" alt="behoerden" />
-          </Dialog>
+          <DialogMStelle>
+            <Knoten :src="require('@/assets/Node_MStelle.svg')" alt="behoerden" />
+          </DialogMStelle>
         </Placeholder>
         <Placeholder />
         <Placeholder />
         <Placeholder />
         <Placeholder>
-          <Dialog title="some title" text="some text">
+          <DialogGez>
             <Knoten :src="require('@/assets/Node_GEZ.svg')" alt="gez" />
-          </Dialog>
+          </DialogGez>
         </Placeholder>
       </Row>
       <!-- Row 2 -->
@@ -36,9 +36,9 @@
         <Placeholder />
         <Placeholder />
         <Placeholder>
-          <Dialog title="some title" text="some text">
+          <DialogMReg>
             <Knoten :src="require('@/assets/Node_Mreg.svg')" alt="mreg" />
-          </Dialog>
+          </DialogMReg>
         </Placeholder>
         <Placeholder />
         <Placeholder />
@@ -58,21 +58,17 @@
       <!-- Row 5 -->
       <Row>
         <Placeholder>
-          <DialogMStelle>
-            <Knoten :src="require('@/assets/Node_MStelle.svg')" alt="mstelle" />
-          </DialogMStelle>
+          <DialogBeh>
+            <Knoten :src="require('@/assets/Node_Behoerden.svg')" alt="mstelle" />
+          </DialogBeh>
         </Placeholder>
         <Placeholder />
         <Placeholder />
         <Placeholder />
         <Placeholder>
-          <Dialog 
-          title=
-          "Dritte Institutionen" 
-          text=
-          "Dritte Institutionen sind nur indirekt von einer neuen Anmeldung betroffen.">
+          <DialogDritte>
             <Knoten :src="require('@/assets/Node_Dritte.svg')" alt="dritte" />
-          </Dialog>
+          </DialogDritte>
         </Placeholder>
       </Row>
     </v-container>
@@ -80,7 +76,14 @@
 </template>
 
 <script>
-import DialogMStelle from "@/components/DialogMStelle.vue"
+//nodes
+import DialogMStelle from "@/components/DialogMStelle.vue";
+import DialogGez from "@/components/DialogGez.vue";
+import DialogMReg from "@/components/DialogMReg.vue";
+import DialogBeh from "@/components/DialogBeh.vue";
+import DialogDritte from "@/components/DialogDritte.vue";
+
+//other
 import Header from "@/components/Header.vue";
 import Placeholder from "@/components/Placeholder.vue";
 import Knoten from "@/components/Knoten.vue";
@@ -95,6 +98,10 @@ export default {
     Knoten,
     Dialog,
     DialogMStelle,
+    DialogGez,
+    DialogMReg,
+    DialogBeh,
+    DialogDritte,
     Row,
   },
 };

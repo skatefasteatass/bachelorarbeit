@@ -1,5 +1,5 @@
 <template>
-  <v-dialog v-model="dialog" width="500">
+    <v-dialog v-model="dialog" width="500">
     <template v-slot:activator="{ on, attrs }">
       <button class="dialog-trigger" v-bind="attrs" v-on.native="on">
         <slot />
@@ -8,7 +8,7 @@
 
     <v-card>
         <v-card-title>
-          <h2 id="title" class="pa-2">Meldestelle</h2>
+          <h2 id="title" class="pa-2">Behörden und Ämter</h2>
           <v-spacer />
             <v-btn icon @click="dialog = false">
                 <v-icon>mdi-close</v-icon>
@@ -17,24 +17,18 @@
 
         <v-divider />
 
-            <div class="content">
-              Die <strong>Meldestelle </strong> (Einwohnermeldeamt) registriert alle in einer Stadt lebenden Personen,
-              um Identität und Wohnort eindeutig festhalten zu können. <br>
-              <br>
-              Meldestellen verwalten <strong>Melderegister</strong>, in welchen diese personenbezogenen Daten hinterlegt werden.<br>
-              <br>
-              Meldet man sich in einer neuen Stadt, an einer neuen Meldestelle an, 
-              so ensteht ein <strong>Datenaustausch</strong> zwischen der Meldestelle des alten Wohnortes
-              und der Meldestelle des neuen Wohnortes. 
-              Dabei gleicht die neue Meldestelle
-              ihre vorliegenden Daten mit den Daten der alten Meldestelle ab und überprüft diese auf Richtigkeit.<br>
-              <br>
-              Falls eine Persone <strong>mehrere</strong> Wohnungen besitzt, müssen alle Wohnungen angemeldet sein.<br>
-              Eine dieser Wohnungen muss dabei als <strong>Hauptwohnung</strong> angemeldet sein. Alle für die 
-              Wohnungen zuständigen Meldestellen erhalten dabei personenbezogenen Daten.
-            </div>
+        <div class="content">
+        Hat eine Person einen neuen Wohnsitz angemeldet, werden die aktualisierten, 
+        personenbezogenen Daten im Melderegister gespeichert. <br>
+        <br>
+        Nun können <strong>andere öffentliche Behörden und Ämter</strong> (wie beispielsweise das Finanzamt) Daten aus dem Melderegister übermittelt bekommen und diese verarbeiten.
+        Umgekehrt haben diese Behörden und Ämter die Möglichkeit, Daten aus dem Melderegister anzufragen. <br>
+        <br>
+        Durch die <strong>EU-DSGVO </strong> (EU-Datenschutz-Grundverordnung) ist festgelegt, dass eine Datenübermittlung und -verarbeitung an anderen öffentlichen Behörden oder Ämtern
+        nur erfolgen darf, wenn dies zur Erfüllung der öffentlichen Aufgaben dieser Behörden und Ämter dient. Ausnahmen sind dabei Strafverfolgung oder die Gefährdung der nationalen Sicherheit.
+        </div>
 
-        <v-divider/>
+        <v-divider />
 
         <v-card-actions>
             <v-spacer />
@@ -49,7 +43,7 @@
 
 <script>
 export default {
-    name: "DialogMStelle",
+    name: "DialogBeh",
     props: {
     button: {
       type: String,
