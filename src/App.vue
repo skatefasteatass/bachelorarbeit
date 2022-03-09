@@ -2,7 +2,7 @@
   <v-app>
     <Header />
     <!-- Row 1 -->
-    <v-container>
+    <v-container class="container">
       <!-- Row 1 -->
       <Row>
         <Placeholder>
@@ -106,3 +106,12 @@ export default {
   },
 };
 </script>
+
+<style scoped>
+.container {
+  padding-bottom: 5px;
+  padding-top: 50px;
+  padding-left: 5px;
+  padding-right: 5px;
+}
+</style>

@@ -18,5 +18,7 @@ header {
   display: flex;
   justify-content: center;
   background-color: whitesmoke;
+  text-align: center;
+  font-size: 1em;
 }
 </style>
