@@ -67,7 +67,7 @@ export default {
     props: {
     button: {
       type: String,
-      default: "Alles klar!",
+      default: "Schließen",
     },
   },
   data() {
