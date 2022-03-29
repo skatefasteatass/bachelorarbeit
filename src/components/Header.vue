@@ -1,7 +1,24 @@
 <template>
-  <header>
-    <h1>Datenflüsse beim Umzug</h1>
-  </header>
+<nav class="nav">
+  <v-toolbar app elevation="2">
+    <v-toolbar-title class="toolbar">
+      <span class="font-weight-light">Datenflüsse beim </span>
+      <span>Umzug</span>
+
+
+    </v-toolbar-title>
+      <v-icon>mdi-home-switch</v-icon>
+      <v-spacer />
+      <span style="margin-right:5px">
+        <v-avatar color="grey lighten-2" size="36">
+          <v-icon dark>
+            mdi-account-circle
+          </v-icon>
+        </v-avatar>
+      </span>
+  </v-toolbar>
+
+</nav>
 </template>
 
 <script>
@@ -11,14 +28,11 @@ export default {
 </script>
 
 <style scoped>
-header {
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
-  display: flex;
+.nav {
   margin-bottom: 25px;
-  display: flex;
-  justify-content: center;
-  background-color: whitesmoke;
-  text-align: center;
-  font-size: 1em;
+}
+.toolbar {
+  margin-left: 20px;
+  margin-right: 2px;
 }
 </style>
