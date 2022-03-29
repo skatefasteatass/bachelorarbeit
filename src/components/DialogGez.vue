@@ -18,9 +18,13 @@
         <v-divider />
 
         <div class="content">
-            GEZ ist die Abkürzung für "Gebühreneinzugszentrale der öffentlich-rechtlichen Rundfunkanstalten". <br>
-            Jede angemeldete, volljährige Person ist dazu verpflichtet, monatlich einen bestimmten Geldbetrag
-            an die GEZ zu überweisen. Die dafür benötigten personenbezogenen Daten gelangen auf zwei verschiedene
+            Die <strong>GEZ</strong>, oder auch Beitragsservice von ARD, ZDF und Deutschlandradio, ist für den Einzug 
+            der Rundfunkbeiträge zuständig. <br>
+            <br>
+            Durch den <strong>RBStV</strong> (Runfunkbeitragsstaatsvertrag) ist festgelegt, dass jede angemeldete, volljährige Person dazu verpflichtet ist, 
+            monatlich einen bestimmten Geldbetrag an die GEZ zu überweisen. In einem <strong>Haushalt mit mehreren Personen</strong>, wie beispielsweise 
+            einer WG, muss nur eine Person den Rundfunkbeitrag zahlen.<br>
+            Die dafür benötigten personenbezogenen Daten gelangen auf zwei verschiedene
             Arten zur GEZ: <br>
             <br>
             Beim der <strong>bundesweiten</strong> Meldedatenübermittlung (Meldedatenabgleich) senden alle Meldestellen die vorhandenen personenbezogenen Daten
@@ -42,10 +46,11 @@
                 <li>Einzugsdatum</li>
             </ul>
             <br>
-            Verarbeitete Daten unterliegen dabei der <strong>EU-DSGVO </strong> (EU-Datenschutz-Grundverordnung). Das bedeutet, dass sie nur zur Erfüllung der Aufgabe verwendet werden dürfen, 
-            zu der sie auch erhoben wurden. Außerdem besteht unter jeweiligen Voraussetzungen das Recht auf Auskunft, Berichtigung, Löschung und Einschränung der Verarbeitung. <br>
-            <br>
-            <v-card-text>Wichtig! In einem Haushalt mit mehreren Personen, wie beispielsweise einer WG, muss nur eine Person den Rundfunkbeitrag zahlen.</v-card-text>
+            Durch die <strong>EU-DSGVO </strong> (EU-Datenschutz-Grundverordnung) ist festgelegt, dass diese Daten nur zur Erfüllung der Aufgabe verwendet werden dürfen, 
+            zu der sie auch erhoben wurden. <br>
+            Durch die EU-DSGVO ist auch festgelegt, dass Personen das Recht auf <strong>Auskunft</strong>, <strong>Berichtigung</strong> 
+            und ggfs. <strong>Löschung</strong> oder <strong>Einschränkung der Verarbeitung</strong> ihrer Daten haben. <br>
+            
         </div>
 
         <v-divider />

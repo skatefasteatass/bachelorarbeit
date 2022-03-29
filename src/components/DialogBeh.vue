@@ -22,10 +22,10 @@
         personenbezogenen Daten im Melderegister gespeichert. <br>
         <br>
         Nun können <strong>andere öffentliche Behörden und Ämter</strong> (wie beispielsweise das Finanzamt) Daten aus dem Melderegister übermittelt bekommen und diese verarbeiten.
-        Umgekehrt haben diese Behörden und Ämter die Möglichkeit, Daten aus dem Melderegister anzufragen. <br>
+        Umgekehrt haben diese Behörden und Ämter auch die Möglichkeit, Daten aus dem Melderegister anzufragen. <br>
         <br>
         Durch die <strong>EU-DSGVO </strong> (EU-Datenschutz-Grundverordnung) ist festgelegt, dass eine Datenübermittlung und -verarbeitung an anderen öffentlichen Behörden oder Ämtern
-        nur erfolgen darf, wenn dies zur Erfüllung der öffentlichen Aufgaben dieser Behörden und Ämter dient. Ausnahmen sind dabei Strafverfolgung oder die Gefährdung der nationalen Sicherheit.
+        nur erfolgen darf, wenn dies <strong>zur Erfüllung der öffentlichen Aufgaben</strong> dieser Behörden und Ämter dient. Ausnahmen sind dabei Strafverfolgung oder die Gefährdung der nationalen Sicherheit.
         </div>
 
         <v-divider />

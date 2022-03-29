@@ -19,7 +19,7 @@
 
         <div class="content">
         Im <strong>Melderegister</strong> werden personenbezogene Daten von in einer Stadt angemeldeten Personen gespeichert. 
-        Ein Melderegister wird von der zugehörigen Meldestelle einer Stadt verwaltet. <br>
+        Ein Melderegister wird von der zugehörigen <strong>Meldestelle</strong> einer Stadt verwaltet. <br>
         <br>
         Folgende personenbezogene Daten werden im Melderegister gespeichert:
         <ul>
@@ -41,16 +41,16 @@
             <li>Sterbedatum und -ort</li>
         </ul>
         <br>
-        Die <strong>EU-DSGVO</strong> (EU-Datenschutz-Grundverordnung) schreibt dabei vor, dass Daten aus dem Melderegister nur entsprechend der Aufgaben
+        Die <strong>EU-DSGVO</strong> (EU-Datenschutz-Grundverordnung) legt fest, dass Daten aus dem Melderegister nur entsprechend der Aufgaben
         der Meldestellen verwendet werden dürfen. Die Meldestelle steht dabei in der Pflicht
         das Melderegister stets richtig und vollständig zu halten.<br>
         <br>
-        Personen haben das Recht auf <strong>Auskunft</strong> über ihre Daten, 
-        die Verarbeitungszwecke dieser Daten und ggfs. <strong>Berichtigung</strong> dieser Daten.
-        Die Meldestellen müssen personenbezogene Daten <strong> löschen</strong>, 
+        Durch die EU-DSGVO ist für Personen auch das Recht auf <strong>Auskunft</strong> über ihre Daten, 
+        die Verarbeitungszwecke dieser Daten und ggfs. <strong>Berichtigung</strong> dieser Daten festgelegt.
+        Die Meldestellen müssen Daten <strong> löschen</strong>, 
         sofern diese zur Erfüllung ihrer Aufgabe nicht länger benötigt werden. <br>
         <br>
-        Meldestellen dürfen anderen öffentlichen Stellen Daten aus dem Melderegister übermitteln, sofern dies
+        Meldestellen dürfen <strong>anderen öffentlichen Stellen</strong> Daten aus dem Melderegister übermitteln, sofern dies
         zur Erfüllung der öffentlichen Aufgabe der entsprechenden Stelle dient. Diese Übermittlung 
         kann in regelmäßigen Abständen sowohl <strong>manuell</strong> als auch <strong>automatisiert</strong> erfolgen. <br>
         <br>
@@ -65,8 +65,9 @@
             <li>sofern die Person verstorben ist, diese Tatsache</li>
         </ul>
         <br>
-        Werden diese Daten zu Gewerbezwecken verwendet, so müssen diese angegeben werden.
-        Sie dürfen nicht außerhalb dieser Zwecke verwendet werden und müssen nach der Erfüllung ihres Zwecks gelöscht werden.
+        Werden diese Daten zu <strong>Gewerbezwecken</strong> verwendet, so müssen diese angegeben werden.
+        Sie dürfen nicht außerhalb dieser Zwecke verwendet werden und müssen nach der Erfüllung ihres Zwecks gelöscht werden.<br>
+        
         </div>
 
         <v-divider />

@@ -19,19 +19,21 @@
 
             <div class="content">
               Die <strong>Meldestelle </strong> (Einwohnermeldeamt) registriert alle in einer Stadt lebenden Personen,
-              um Identität und Wohnort eindeutig festhalten zu können. <br>
-              <br>
+              um Identität und Wohnort eindeutig festhalten zu können.
               Meldestellen verwalten <strong>Melderegister</strong>, in welchen diese personenbezogenen Daten hinterlegt werden.<br>
               <br>
-              Meldet man sich in einer neuen Stadt, an einer neuen Meldestelle an, 
-              so ensteht ein <strong>Datenaustausch</strong> zwischen der Meldestelle des alten Wohnortes
-              und der Meldestelle des neuen Wohnortes. 
+              Die Meldestelle ist der erste Anlaufpunkt nach einem Umzug.
+              Für die Anmeldung des neuen Wohnortes benötigt die Meldestelle <strong>Personalausweis</strong> und die <strong>Wohnngsgeberbestätigung</strong><br>
+              <br>
+              Anschließend erfolgt ein <strong>Datenaustausch</strong> zwischen der Meldestelle des <strong>alten Wohnortes</strong>
+              und der Meldestelle des <strong>neuen Wohnortes</strong>. 
               Dabei gleicht die neue Meldestelle
               ihre vorliegenden Daten mit den Daten der alten Meldestelle ab und überprüft diese auf Richtigkeit.<br>
               <br>
-              Falls eine Persone <strong>mehrere</strong> Wohnungen besitzt, müssen alle Wohnungen angemeldet sein.<br>
-              Eine dieser Wohnungen muss dabei als <strong>Hauptwohnung</strong> angemeldet sein. Alle für die 
-              Wohnungen zuständigen Meldestellen erhalten dabei personenbezogenen Daten.
+              Falls eine Persone <strong>mehrere Wohnungen</strong> besitzt, müssen alle Wohnungen angemeldet sein.<br>
+              Eine dieser Wohnungen muss dabei als <strong>Hauptwohnung</strong> angemeldet sein. Alle für diese 
+              Wohnungen zuständigen Meldestellen erhalten dabei personenbezogene Daten des Mieters oder des Eigentümers. <br>
+              
             </div>
 
         <v-divider/>
