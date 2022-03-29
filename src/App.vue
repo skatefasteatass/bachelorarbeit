@@ -1,5 +1,6 @@
 <template>
   <v-app>
+    <div id="bg">
     <Header />
     <!-- Row 1 -->
     <v-container class="container">
@@ -72,6 +73,7 @@
         </Placeholder>
       </Row>
     </v-container>
+    </div>
   </v-app>
 </template>
 
@@ -110,8 +112,12 @@ export default {
 <style scoped>
 .container {
   padding-bottom: 5px;
-  padding-top: 50px;
   padding-left: 5px;
   padding-right: 5px;
+  background-color: whitesmoke;
+}
+#app {
+  background-color: whitesmoke;
+  background-attachment: fixed;
 }
 </style>
