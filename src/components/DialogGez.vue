@@ -48,6 +48,7 @@
             <br>
             Durch die <strong>EU-DSGVO </strong> (EU-Datenschutz-Grundverordnung) ist festgelegt, dass diese Daten nur zur Erfüllung der Aufgabe verarbeitet werden dürfen, 
             zu der sie auch erhoben wurden. <br>
+            <br>
             Durch die EU-DSGVO ist auch festgelegt, dass Personen das Recht auf <strong>Auskunft</strong>, <strong>Berichtigung</strong> 
             und ggfs. <strong>Löschung</strong> oder <strong>Einschränkung der Verarbeitung</strong> ihrer Daten haben. <br>
             

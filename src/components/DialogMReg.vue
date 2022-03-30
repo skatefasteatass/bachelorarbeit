@@ -50,8 +50,8 @@
         Die Meldestellen müssen Daten <strong> löschen</strong>, 
         sofern diese zur Erfüllung ihrer Aufgabe nicht länger benötigt werden. <br>
         <br>
-        Meldestellen dürfen <strong>anderen öffentlichen Stellen</strong> Daten aus dem Melderegister übermitteln, sofern dies
-        zur Erfüllung der öffentlichen Aufgabe der entsprechenden Stelle dient. Diese Übermittlung 
+        Meldestellen dürfen <strong>anderen öffentlichen Stellen, Behörden und Ämtern</strong> Daten aus dem Melderegister übermitteln, sofern dies
+        zur Erfüllung der öffentlichen Aufgabe der entsprechenden Stellen, Behörden oder Ämtern dient. Diese Übermittlung 
         kann in regelmäßigen Abständen sowohl <strong>manuell</strong> als auch <strong>automatisiert</strong> erfolgen. <br>
         <br>
         Darüber hinaus können sog. <strong>Melderegisterauskünfte</strong> gestellt werden. 

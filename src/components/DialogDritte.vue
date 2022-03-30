@@ -21,10 +21,11 @@
         Sonstige (unabhängige) <strong>Dritte Institutionen</strong> sind nur indirekt von den Datenflüssen betroffen. Zu ihnen gehören beispielsweise 
         <strong>Parteien, Wählergruppen oder Adressbuchverlage</strong>. <br>
         <br>
-        Über <strong>Melderegisterauskünfte</strong> haben unabhängige dritte Institutionen die Möglichkeit an personenbezogene Daten zu gelangen und diese zu verwenden. <br>
+        Über <strong>Melderegisterauskünfte</strong> haben unabhängige dritte Institutionen die Möglichkeit an personenbezogene Daten zu gelangen und diese zu verwenden.
+        Im Antrag auf eine Melderegisterauskunft muss dazu ein Zweck für die Melderegisterauskunft angegeben werden. Erhaltene Daten dürfen nur zu diesem angegebenen Zweck verwendet werden. <br>
         <br>
-        Personen haben dabei jedoch die Möglichkeit, über einen entsprechenden <strong>Antrag auf eine Auskunftssperre</strong> an eine Meldestelle der Weitergabe und Verarbeitung ihrer 
-        personenbezogenen Daten zu widersprechen. Dieser Antrag muss ein Mal im jährlich gestellt werden. <br>
+        Personen haben dabei jedoch die Möglichkeit, der <strong>Weitergabe</strong> ihrer personenbezogenen Daten 
+        an unabhängige dritte Institutionen  zu <strong>widersprechen</strong>. Dies ist über einen kurzen, schriftlichen Antrag möglich.<br>
         </div>
 
         <v-divider />
