@@ -42,7 +42,7 @@
         </ul>
         <br>
         Die <strong>EU-DSGVO</strong> (EU-Datenschutz-Grundverordnung) legt fest, dass Daten aus dem Melderegister nur entsprechend der Aufgaben
-        der Meldestellen verwendet werden dürfen. Die Meldestelle steht dabei in der Pflicht
+        der Meldestellen verarbeitet werden dürfen. Die Meldestelle steht dabei in der Pflicht
         das Melderegister stets richtig und vollständig zu halten.<br>
         <br>
         Durch die EU-DSGVO ist für Personen auch das Recht auf <strong>Auskunft</strong> über ihre Daten, 

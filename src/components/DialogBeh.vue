@@ -18,7 +18,7 @@
         <v-divider />
 
         <div class="content">
-        Hat eine Person einen neuen Wohnsitz angemeldet, werden die aktualisierten, 
+        Hat eine Person sich an einem neuen Wohnort angemeldet, werden die aktualisierten, 
         personenbezogenen Daten im Melderegister gespeichert. <br>
         <br>
         Nun können <strong>andere öffentliche Behörden und Ämter</strong> (wie beispielsweise das Finanzamt) Daten aus dem Melderegister übermittelt bekommen und diese verarbeiten.
