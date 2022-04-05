@@ -73,6 +73,7 @@
         </Placeholder>
       </Row>
     </v-container>
+    <Footer/>
     </div>
   </v-app>
 </template>
@@ -87,6 +88,7 @@ import DialogDritte from "@/components/DialogDritte.vue";
 
 //other
 import Header from "@/components/Header.vue";
+import Footer from "@/components/Footer.vue";
 import Placeholder from "@/components/Placeholder.vue";
 import Knoten from "@/components/Knoten.vue";
 import Row from "@/components/Row.vue";
@@ -96,6 +98,7 @@ export default {
   name: "App",
   components: {
     Header,
+    Footer,
     Placeholder,
     Knoten,
     Dialog,
@@ -111,9 +114,9 @@ export default {
 
 <style scoped>
 .container {
-  padding-bottom: 5px;
   padding-left: 5px;
   padding-right: 5px;
+  padding-bottom: 25px;
   background-color: whitesmoke;
 }
 #app {
