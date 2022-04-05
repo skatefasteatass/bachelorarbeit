@@ -116,7 +116,7 @@ export default {
 .container {
   padding-left: 5px;
   padding-right: 5px;
-  padding-bottom: 25px;
+  padding-bottom: 50px;
   background-color: whitesmoke;
 }
 #app {

@@ -1,7 +1,8 @@
 <template>
-    <v-footer elevation="2" class="footer">
+    <v-footer inset width="auto" elevation="2" class="footer">
         <v-card-text>
-            <router-link to="/">About</router-link>
+            Diese Anwendung wurde im Rahmen einer Bachelorarbeit an der Universität zu Lübeck entwickelt. Für Fragen wenden Sie sich bitte an Carl Fedrowitz
+            unter carl.fedrowitz@student.uni-luebeck.de
         </v-card-text>
     </v-footer>
 </template>
@@ -14,5 +15,6 @@ export default {};
 .footer{
     display: flex;
     text-align: center;
+    position: relative;
 }
 </style>
