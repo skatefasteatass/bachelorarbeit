@@ -51,6 +51,7 @@
             <br>
             Durch die EU-DSGVO ist auch festgelegt, dass Personen das Recht auf <strong>Auskunft</strong>, <strong>Berichtigung</strong> 
             und ggfs. <strong>Löschung</strong> oder <strong>Einschränkung der Verarbeitung</strong> ihrer Daten haben. <br>
+            Weitere Informationen zur EU-DSGVO gibt es <a href="https://dsgvo-gesetz.de/" target="_blank">hier</a>!<br>
             
         </div>
 

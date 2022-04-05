@@ -25,7 +25,8 @@
         Umgekehrt haben diese Behörden und Ämter auch die Möglichkeit, Daten aus dem Melderegister anzufragen. <br>
         <br>
         Durch die <strong>EU-DSGVO </strong> (EU-Datenschutz-Grundverordnung) ist festgelegt, dass eine Datenübermittlung und -verarbeitung an anderen öffentlichen Behörden oder Ämtern
-        nur erfolgen darf, wenn dies <strong>zur Erfüllung der öffentlichen Aufgaben</strong> dieser Behörden und Ämter dient. Ausnahmen sind dabei Strafverfolgung oder die Gefährdung der nationalen Sicherheit.
+        nur erfolgen darf, wenn dies <strong>zur Erfüllung der öffentlichen Aufgaben</strong> dieser Behörden und Ämter dient. Ausnahmen sind dabei Strafverfolgung oder die Gefährdung der nationalen Sicherheit. <br>
+        Weitere Informationen zur EU-DSGVO gibt es <a href="https://dsgvo-gesetz.de/" target="_blank">hier</a>!<br>
         </div>
 
         <v-divider />

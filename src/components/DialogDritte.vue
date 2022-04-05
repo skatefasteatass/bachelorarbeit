@@ -25,7 +25,7 @@
         Im Antrag auf eine Melderegisterauskunft muss dazu ein Zweck für die Melderegisterauskunft angegeben werden. Erhaltene Daten dürfen nur zu diesem angegebenen Zweck verwendet werden. <br>
         <br>
         Personen haben dabei jedoch die Möglichkeit, der <strong>Weitergabe</strong> ihrer personenbezogenen Daten 
-        an unabhängige dritte Institutionen  zu <strong>widersprechen</strong>. Dies ist über einen kurzen, schriftlichen Antrag möglich.<br>
+        an unabhängige dritte Institutionen  zu <strong>widersprechen</strong>. Dies ist über einen formlosen, schriftlichen Antrag möglich. Eine Vorlage dazu wird auf vielen Bürgerservice-Webseiten bereitgestellt.<br>
         </div>
 
         <v-divider />

@@ -48,7 +48,8 @@
         Durch die EU-DSGVO ist für Personen auch das Recht auf <strong>Auskunft</strong> über ihre Daten, 
         die Verarbeitungszwecke dieser Daten und ggfs. <strong>Berichtigung</strong> dieser Daten festgelegt.
         Die Meldestellen müssen Daten <strong> löschen</strong>, 
-        sofern diese zur Erfüllung ihrer Aufgabe nicht länger benötigt werden. <br>
+        sofern diese zur Erfüllung ihrer Aufgabe nicht länger benötigt werden.<br>
+        Weitere Informationen zur EU-DSGVO gibt es <a href="https://dsgvo-gesetz.de/" target="_blank">hier</a>!<br>
         <br>
         Meldestellen dürfen <strong>anderen öffentlichen Stellen, Behörden und Ämtern</strong> Daten aus dem Melderegister übermitteln, sofern dies
         zur Erfüllung der öffentlichen Aufgabe der entsprechenden Stellen, Behörden oder Ämtern dient. Diese Übermittlung 
