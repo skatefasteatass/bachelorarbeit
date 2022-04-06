@@ -18,7 +18,7 @@
         <v-divider />
 
             <div class="content">
-              Die <strong>Meldestelle </strong> (Einwohnermeldeamt) registriert alle in einer Stadt lebenden Personen,
+              Die <strong>Meldestelle </strong> (auch Einwohnermeldeamt oder Bürgerservicebüro) registriert alle in einer Stadt lebenden Personen,
               um Identität und Wohnort eindeutig festhalten zu können.
               Meldestellen verwalten <strong>Melderegister</strong>, in welchen diese personenbezogenen Daten hinterlegt werden.<br>
               <br>

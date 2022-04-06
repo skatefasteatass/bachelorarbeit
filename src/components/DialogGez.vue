@@ -22,7 +22,7 @@
             der Rundfunkbeiträge zuständig. <br>
             <br>
             Durch den <strong>RBStV</strong> (Runfunkbeitragsstaatsvertrag) ist festgelegt, dass jede angemeldete, volljährige Person dazu verpflichtet ist, 
-            monatlich einen bestimmten Geldbetrag an die GEZ zu überweisen. In einem <strong>Haushalt mit mehreren Personen</strong>, wie beispielsweise 
+            vierteljährlich einen bestimmten Geldbetrag an die GEZ zu überweisen. In einem <strong>Haushalt mit mehreren Personen</strong>, wie beispielsweise 
             einer WG, muss nur eine Person den Rundfunkbeitrag zahlen.<br>
             Die dafür benötigten personenbezogenen Daten gelangen auf zwei verschiedene
             Arten zur GEZ: <br>
