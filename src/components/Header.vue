@@ -2,20 +2,19 @@
 <nav class="nav">
   <v-toolbar app elevation="2">
     <v-toolbar-title class="toolbar">
-      <span class="font-weight-light">Freie und Hansestadt </span>
+      <span class="font-weight-light">Hansestadt </span>
       <span>Musterstadt</span>
       <v-spacer />
             
     </v-toolbar-title>
-      <v-icon>mdi-city-variant-outline</v-icon>
-      <v-spacer />
-      <span style="margin-right:5px">
-        <v-avatar color="grey lighten-2" size="36">
-          <v-icon disabled>
-            mdi-account-circle
-          </v-icon>
-        </v-avatar>
-      </span>
+    <v-icon>mdi-city-variant-outline</v-icon>
+    <v-spacer />
+    <v-btn flat color="grey">
+      <span class="font-weight-light">Sign Out</span>
+        <v-icon right color="grey lighten-2">
+          mdi-account-circle
+        </v-icon>
+    </v-btn>
   </v-toolbar>
 
 </nav>
@@ -32,7 +31,6 @@ export default {
   margin-bottom: 25px;
 }
 .toolbar {
-
   margin-right: 2px;
 }
 </style>
