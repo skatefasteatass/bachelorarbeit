@@ -13,7 +13,7 @@
 
     <h1 class="h1">Datenflüsse beim Umzug</h1>
 
-    <h3 class="h3">Was genau passiert mit Ihren persönlichen Daten bei der Ummeldung?</h3>
+    <h3 class="h3">Was genau passiert mit Ihren persönlichen Daten bei der Anmeldung?</h3>
 
     <!-- Row 1 -->
     <div class="application">
