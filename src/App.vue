@@ -13,7 +13,7 @@
 
     <h1 class="h1">Datenflüsse beim Umzug</h1>
 
-    <h3 class="h3">Was genau passiert mit meinen Daten, nachdem ich mich angemeldet habe?</h3>
+    <h3 class="h3">Was genau passiert mit Ihren persönlichen Daten bei der Ummeldung?</h3>
 
     <!-- Row 1 -->
     <div class="application">
@@ -131,17 +131,16 @@ export default {
 .container {
   padding-left: 5px;
   padding-right: 5px;
-  padding-bottom: 150px;
+  padding-bottom: 170px;
   background-color: whitesmoke;
 }
 .h1{
-  text-align: justify;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  font-size: 1.9em;
   padding: 10px;
   padding-left: 20px;
 }
 .h3{
-  text-align: justify;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
   padding: 10px;
   padding-left: 20px;

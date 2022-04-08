@@ -2,7 +2,7 @@
 <nav class="nav">
   <v-toolbar app elevation="2">
     <v-toolbar-title class="toolbar">
-      <span class="font-weight-light">Hansestadt </span>
+      <span class="font-weight-light">Stadt </span>
       <span>Musterstadt</span>
       <v-spacer />
             
