@@ -41,16 +41,6 @@
             <li>Sterbedatum und -ort</li>
         </ul>
         <br>
-        Die <strong>EU-DSGVO</strong> (EU-Datenschutz-Grundverordnung) legt fest, dass Daten aus dem Melderegister nur entsprechend der Aufgaben
-        der Meldestellen verarbeitet werden dürfen. Die Meldestelle steht dabei in der Pflicht
-        das Melderegister stets richtig und vollständig zu halten.<br>
-        <br>
-        Durch die EU-DSGVO ist für Personen auch das Recht auf <strong>Auskunft</strong> über ihre Daten, 
-        die Verarbeitungszwecke dieser Daten und ggfs. <strong>Berichtigung</strong> dieser Daten festgelegt.
-        Die Meldestellen müssen Daten <strong> löschen</strong>, 
-        sofern diese zur Erfüllung ihrer Aufgabe nicht länger benötigt werden.<br>
-        Weitere Informationen zur EU-DSGVO gibt es <a href="https://dsgvo-gesetz.de/" target="_blank">hier</a>!<br>
-        <br>
         Meldestellen dürfen <strong>anderen öffentlichen Stellen, Behörden und Ämtern</strong> Daten aus dem Melderegister übermitteln, sofern dies
         zur Erfüllung der öffentlichen Aufgabe der entsprechenden Stellen, Behörden oder Ämtern dient. Diese Übermittlung 
         kann in regelmäßigen Abständen sowohl <strong>manuell</strong> als auch <strong>automatisiert</strong> erfolgen. <br>
@@ -63,11 +53,22 @@
             <li>Vorname</li>
             <li>Doktorgrad</li>
             <li>derzeitige Anschriften</li>
-            <li>sofern die Person verstorben ist, diese Tatsache</li>
+            <li>sofern die Person verstorben ist, dass dies der Fall ist</li>
         </ul>
         <br>
         Werden diese Daten zu <strong>Gewerbezwecken</strong> verwendet, so müssen diese angegeben werden.
         Sie dürfen nicht außerhalb dieser Zwecke verwendet werden und müssen nach der Erfüllung ihres Zwecks gelöscht werden.<br>
+        <br>
+        Die <strong>EU-DSGVO</strong> (EU-Datenschutz-Grundverordnung) legt fest, dass Daten aus dem Melderegister nur entsprechend der Aufgaben
+        der Meldestellen verarbeitet werden dürfen. Die Meldestelle steht dabei in der Pflicht
+        das Melderegister stets richtig und vollständig zu halten.<br>
+        <br>
+        Durch die EU-DSGVO ist für Personen auch das Recht auf <strong>Auskunft</strong> über ihre Daten, 
+        die Verarbeitungszwecke dieser Daten und ggfs. <strong>Berichtigung</strong> dieser Daten festgelegt.
+        Die Meldestellen müssen Daten <strong> löschen</strong>, 
+        sofern diese zur Erfüllung ihrer Aufgabe nicht länger benötigt werden.<br>
+        Weitere Informationen zur EU-DSGVO gibt es <a href="https://dsgvo-gesetz.de/" target="_blank">hier</a>!<br>
+        <br>
         
         </div>
 

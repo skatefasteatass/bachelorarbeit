@@ -27,7 +27,7 @@
             Die dafür benötigten personenbezogenen Daten gelangen auf zwei verschiedene
             Arten zur GEZ: <br>
             <br>
-            Beim der <strong>bundesweiten</strong> Meldedatenübermittlung (Meldedatenabgleich) senden alle Meldestellen die vorhandenen personenbezogenen Daten
+            Bei der <strong>bundesweiten</strong> Meldedatenübermittlung (Meldedatenabgleich) senden alle Meldestellen die vorhandenen personenbezogenen Daten
             aller volljährigen Personen aus allen Melderegistern an die GEZ. 
             Die GEZ prüft diese Daten anschließend auf mögliche beitragspflichtige Personen. <br>
             <br>
