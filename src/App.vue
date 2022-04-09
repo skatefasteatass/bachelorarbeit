@@ -2,15 +2,12 @@
   <v-app>
     <div id="bg">
     <Header />
-
-    <ul class="path">
-      <li>Bürgerservices</li>
-      <li>/</li>
-      <li>Anmeldung</li>
-      <li>/</li>
-      <li><strong>Datenflüsse</strong></li>
-    </ul>
-
+    <v-breadcrumbs
+    large
+    divider="/"
+    :items="items"
+    ></v-breadcrumbs>
+    <v-divider/>
     <h1 class="h1">Datenflüsse beim Umzug</h1>
 
     <h3 class="h3">Was genau passiert mit Ihren persönlichen Daten bei der Anmeldung?</h3>
@@ -110,6 +107,22 @@ import Row from "@/components/Row.vue";
 import Dialog from "@/components/Dialog.vue";
 
 export default {
+  data:() => ({
+    items: [
+      {
+        text: 'Bürgerservices',
+        disabled: false
+      },
+      {
+        text: 'Anmeldung',
+        disabled: false
+      },
+      {
+        text: 'Datenflüsse',
+        disabled: true
+      }
+    ]
+  }),
   name: "App",
   components: {
     Header,
@@ -145,12 +158,6 @@ export default {
   padding: 10px;
   padding-left: 20px;
   padding-bottom: 35px;
-}
-.path li{
-  display: inline;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
-  padding-right: 15px;
-  padding-bottom: 20px;
 }
 .application{
   align-self: left;

@@ -28,7 +28,7 @@ export default {
 
 <style scoped>
 .nav {
-  margin-bottom: 25px;
+  margin-bottom: 5px;
 }
 .toolbar {
   margin-right: 2px;
