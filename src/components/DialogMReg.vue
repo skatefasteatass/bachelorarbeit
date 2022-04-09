@@ -27,7 +27,7 @@
             <li>frühere Namen</li>
             <li>Vornamen</li>
             <li>Doktorgrad</li>
-            <li>Ordensname, Künsterlname</li>
+            <li>Ordensname, Künsltername</li>
             <li>personenbezogene Daten des gesetzlichen Vertreters</li>
             <li>Staatsangehörigkeiten</li>
             <li>rechtliche Zugehörigkeiten zu einer Religionsgesellschaft</li>
@@ -57,7 +57,7 @@
         </ul>
         <br>
         Werden diese Daten zu <strong>Gewerbezwecken</strong> verwendet, so müssen diese angegeben werden.
-        Sie dürfen nicht außerhalb dieser Zwecke verwendet werden und müssen nach der Erfüllung ihres Zwecks gelöscht werden.<br>
+        Sie dürfen nicht außerhalb  dieser Zwecke verwendet werden und müssen nach der Erfüllung ihres Zwecks gelöscht werden.<br>
         <br>
         Die <strong>EU-DSGVO</strong> (EU-Datenschutz-Grundverordnung) legt fest, dass Daten aus dem Melderegister nur entsprechend der Aufgaben
         der Meldestellen verarbeitet werden dürfen. Die Meldestelle steht dabei in der Pflicht

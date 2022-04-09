@@ -21,7 +21,7 @@
         Hat eine Person sich an einem neuen Wohnort angemeldet, werden die aktualisierten, 
         personenbezogenen Daten im Melderegister gespeichert. <br>
         <br>
-        Nun können <strong>andere öffentliche Behörden und Ämter</strong> (wie beispielsweise das Finanzamt) Daten aus dem Melderegister übermittelt bekommen und diese verarbeiten.
+        Nun können <strong>andere öffentliche Behörden und Ämter</strong> (wie beispielsweise <strong>Finanzamt, Gesundheitsamt, Passbehörde</strong>) Daten aus dem Melderegister übermittelt bekommen und diese verarbeiten.
         Umgekehrt haben diese Behörden und Ämter auch die Möglichkeit, Daten aus dem Melderegister anzufragen. <br>
         <br>
         Durch die <strong>EU-DSGVO </strong> (EU-Datenschutz-Grundverordnung) ist festgelegt, dass eine Datenübermittlung und -verarbeitung an anderen öffentlichen Behörden oder Ämtern

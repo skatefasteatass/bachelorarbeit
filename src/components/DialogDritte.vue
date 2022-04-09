@@ -8,7 +8,7 @@
 
     <v-card>
          <v-card-title>
-          <h2 id="title" class="pa-2">Dritte Institutionen</h2>
+          <h2 id="title" class="pa-2">Außerbehördliche Institutionen</h2>
           <v-spacer />
             <v-btn icon @click="dialog = false">
                 <v-icon>mdi-close</v-icon>
@@ -18,8 +18,14 @@
         <v-divider />
 
         <div class="content">
-        Sonstige (unabhängige) <strong>Dritte Institutionen</strong> sind nur indirekt von den Datenflüssen betroffen. Zu ihnen gehören beispielsweise 
-        <strong>Parteien, Wählergruppen oder Adressbuchverlage</strong>. <br>
+        Sonstige (unabhängige) <strong>außerbehördliche Institutionen</strong> sind nur indirekt von den Datenflüssen betroffen. Zu ihnen gehören:
+        <ul>
+          <li>Parteien und Wählergruppen</li>
+          <li>Adressbuchverlage</li>
+          <li>öffentlich-rechtliche Religionsgesellschaften</li>
+          <li>Mandatsträger, Presse und Rundfunk für Alters- und Ehejubiläen</li>
+          <li>Bundesamt für Personalmanagement der Bundeswehr</li>
+        </ul> 
         <br>
         Über <strong>Melderegisterauskünfte</strong> haben unabhängige dritte Institutionen die Möglichkeit an personenbezogene Daten zu gelangen und diese zu verwenden.
         Im Antrag auf eine Melderegisterauskunft muss dazu ein Zweck für die Melderegisterauskunft angegeben werden. Erhaltene Daten dürfen nur zu diesem angegebenen Zweck verwendet werden. <br>
