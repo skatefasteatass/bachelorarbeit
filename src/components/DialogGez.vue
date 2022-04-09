@@ -24,8 +24,8 @@
             Durch den <strong>RBStV</strong> (Runfunkbeitragsstaatsvertrag) ist festgelegt, dass jede angemeldete, volljährige Person dazu verpflichtet ist, 
             vierteljährlich einen bestimmten Geldbetrag an die GEZ zu überweisen. In einem <strong>Haushalt mit mehreren Personen</strong>, wie beispielsweise 
             einer WG, muss nur eine Person den Rundfunkbeitrag zahlen.<br>
-            Die dafür benötigten personenbezogenen Daten gelangen auf zwei verschiedene
-            Arten zur GEZ: <br>
+            Die dafür benötigten personenbezogenen Daten gelangen auf <strong>zwei verschiedene Arten</strong>
+             zur GEZ: <br>
             <br>
             Bei der <strong>bundesweiten</strong> Meldedatenübermittlung (Meldedatenabgleich) senden alle Meldestellen die vorhandenen personenbezogenen Daten
             aller volljährigen Personen aus allen Melderegistern an die GEZ. 

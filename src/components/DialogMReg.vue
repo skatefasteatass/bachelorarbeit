@@ -27,7 +27,7 @@
             <li>frühere Namen</li>
             <li>Vornamen</li>
             <li>Doktorgrad</li>
-            <li>Ordensname, Künsltername</li>
+            <li>Ordensname, Künstlername</li>
             <li>personenbezogene Daten des gesetzlichen Vertreters</li>
             <li>Staatsangehörigkeiten</li>
             <li>rechtliche Zugehörigkeiten zu einer Religionsgesellschaft</li>
