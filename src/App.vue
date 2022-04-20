@@ -19,7 +19,7 @@
       <Row>
         <Placeholder>
           <DialogMStelle>
-            <Knoten :src="require('@/assets/Node_MStelle.svg')" alt="behoerden" />
+            <Knoten :src="require('@/assets/Node_MStelle.svg')" alt="mstelle" />
           </DialogMStelle>
         </Placeholder>
         <Placeholder />
@@ -35,11 +35,11 @@
       <Row>
         <Placeholder />
         <Placeholder>
-          <Knoten :src="require('@/assets/oben_links.svg')" alt="arrow oben links" />
+          <Pfeil :src="require('@/assets/oben_links.svg')" alt="arrow oben links" />
         </Placeholder>
         <Placeholder />
         <Placeholder>
-          <Knoten :src="require('@/assets/oben_rechts.svg')" alt="arrow oben rechts" />
+          <Pfeil :src="require('@/assets/oben_rechts.svg')" alt="arrow oben rechts" />
         </Placeholder>
         <Placeholder />
       </Row>
@@ -59,11 +59,11 @@
       <Row>
         <Placeholder />
         <Placeholder>
-          <Knoten :src="require('@/assets/unten_links.svg')" alt="arrow unten links" />
+          <Pfeil :src="require('@/assets/unten_links.svg')" alt="arrow unten links" />
         </Placeholder>
         <Placeholder />
         <Placeholder>
-          <Knoten :src="require('@/assets/unten_rechts.svg')" alt="arrow unten rechts" />
+          <Pfeil :src="require('@/assets/unten_rechts.svg')" alt="arrow unten rechts" />
         </Placeholder>
         <Placeholder />
       </Row>
@@ -71,7 +71,7 @@
       <Row>
         <Placeholder>
           <DialogBeh>
-            <Knoten :src="require('@/assets/Node_Behoerden.svg')" alt="mstelle" />
+            <Knoten :src="require('@/assets/Node_Behoerden.svg')" alt="behoerden" />
           </DialogBeh>
         </Placeholder>
         <Placeholder />
@@ -102,6 +102,7 @@ import DialogDritte from "@/components/DialogDritte.vue";
 import Header from "@/components/Header.vue";
 import Footer from "@/components/Footer.vue";
 import Placeholder from "@/components/Placeholder.vue";
+import Pfeil from "@/components/Pfeil.vue";
 import Knoten from "@/components/Knoten.vue";
 import Row from "@/components/Row.vue";
 import Dialog from "@/components/Dialog.vue";
@@ -129,6 +130,7 @@ export default {
     Footer,
     Placeholder,
     Knoten,
+    Pfeil,
     Dialog,
     DialogMStelle,
     DialogGez,
