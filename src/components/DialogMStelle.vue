@@ -23,7 +23,7 @@
               Meldestellen verwalten <strong>Melderegister</strong>, in welchen diese personenbezogenen Daten hinterlegt werden.<br>
               <br>
               Die Meldestelle ist der erste Anlaufpunkt nach einem Umzug.
-              Für die Anmeldung des neuen Wohnortes benötigt die Meldestelle <strong>Personalausweis</strong> und die <strong>Wohnngsgeberbestätigung</strong><br>
+              Für die Anmeldung des neuen Wohnortes benötigt die Meldestelle <strong>Personalausweis</strong> und die <strong>Wohngsgeberbestätigung</strong><br>
               <br>
               Anschließend erfolgt ein <strong>Datenaustausch</strong> zwischen der Meldestelle des <strong>alten Wohnortes</strong>
               und der Meldestelle des <strong>neuen Wohnortes</strong>. 

@@ -2,7 +2,7 @@
     <v-dialog v-model="dialog" width="500">
     <template v-slot:activator="{ on, attrs }">
       <button class="dialog-trigger" v-bind="attrs" v-on.native="on">
-        <slot />
+        <slot /> <!-- inputs w/e is inside this component, e.g. the nodes' designated svg -->
       </button>
     </template>
 
