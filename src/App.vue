@@ -1,6 +1,7 @@
 <template>
   <v-app>
     <div id="bg">
+    <!-- Header -->
     <Header />
     <v-breadcrumbs
     large
@@ -12,7 +13,7 @@
 
     <h3 class="h3">Was genau passiert mit Ihren persönlichen Daten bei der Anmeldung?</h3>
 
-    <!-- Row 1 -->
+    <!-- Rows -->
     <div class="application">
     <v-container class="container">
       <!-- Row 1 -->
@@ -84,6 +85,7 @@
         </Placeholder>
       </Row>
     </v-container>
+    <!-- Footer -->
     </div>
     <Footer/>
     </div>
