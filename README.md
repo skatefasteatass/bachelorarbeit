@@ -10,11 +10,13 @@ Node.js: 16.13.0 <br>
 VSCode Version: 1.67.1 (Universal)<br>
 Chrome: Version 101.0.4951.54 (Official Build) (arm64) <br>
 
->WICHTIG! Zum Zeitpunkt der Entwicklung supportet Vuetify nur Vue-Versionen unter Vue 3.
+>WICHTIG! Zum Zeitpunkt der Entwicklung supportet Vuetify nur Vue-Versionen unter Vue 3. <br>
+
+Die Anwendung wurde auf der ARM-basierten MacOS Monterey Version 12.3.1 und unter Windows 10 Pro erfolgreich getestet.
 
 ## Setup des Projekts
 Öffnen Sie den Projektordner in einem Editor. Das Projekt wurde in VSCode entwickelt. <br>
-Öffnen Sie ein neues Terminal am Speicherort bzw. im Projekt.
+Öffnen Sie ein neues Terminal am Speicherort bzw. im Projekt. <br>
 Mit dem Befehl des Node Package Manager
 ```
 npm install
