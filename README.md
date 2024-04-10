@@ -32,6 +32,6 @@ Der Befehl
 ```
 npm run build
 ```
-startet den Produktions Build der Anwendung.
+startet den Produktionsbuild der Anwendung.
 
 
